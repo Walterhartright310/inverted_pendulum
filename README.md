@@ -1,2 +1,2 @@
 # inverted_pendulum
-ROS2+pid+stm32+inverted_pendulum
+ROS2_stm32_invertedpendulum_serial
